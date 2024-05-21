@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+
+.UsersList {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.UsersRow {
+  display: flex;
+  flex-direction: row;
+  width: 300px;
+  margin: 7px
+}
+
+.UsersName {
+  margin-left: 15px;
+}
+
+.UsersImage {
+  border-radius: 15px;
+
+}
